@@ -1,6 +1,6 @@
 import java.util.Scanner;  // Импортируем класс Scanner для ввода данных с клавиатуры
 
-public class MaxsimumOfTwoNumbers {  // Определяем главный класс программы
+public class MaximumOfTwoNumbers {  // Определяем главный класс программы
     public static void main(String[] args){  // Метод main - точка входа в программу
         Scanner scan = new Scanner(System.in);  // Создаем объект Scanner для чтения данных с клавиатуры
 
